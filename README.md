@@ -1,6 +1,6 @@
 # RCTester
 
-RCTester is pulupulu pulu :v
+RCTesterV1 :v
 
 ## Usage
 
@@ -9,6 +9,6 @@ RCTester is pulupulu pulu :v
 ```
 
 ## Contributing
-Welcome on WTF this..
+Enjoy..
 
 End
